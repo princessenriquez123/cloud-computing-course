@@ -58,3 +58,14 @@ AWS is a good choice for a global e-commerce company because it has cloud infras
 * Elastic Load Balancing
 * Amazon RDS
 * Amazon S3
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Offers flexible scaling and many services that can support a growing business. |
+| Enterprise Organization | AWS | Provides a broad range of enterprise services and global infrastructure. |
+| Microsoft Environment | Microsoft Azure | Integrates well with Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | Google Cloud Platform | Provides strong AI and machine learning services such as Vertex AI and Cloud TPU. |
+| Kubernetes Deployment | Google Cloud Platform | Google Cloud provides Google Kubernetes Engine (GKE) for managing Kubernetes workloads. |
+| Global Web Application | AWS | Provides global infrastructure, automatic scaling, and load balancing for worldwide applications. |
