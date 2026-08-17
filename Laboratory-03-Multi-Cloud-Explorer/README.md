@@ -6,10 +6,10 @@ I used the KillerCoda Ubuntu Playground to investigate the basic specifications 
 
 ### System Information
 
-* **Operating System:** Ubuntu 24.04.4 LTS
-* **CPU Information:** [Enter the CPU information shown by `lscpu`]
-* **Memory:** 1.9 GiB total, 431 MiB used, 1.4 GiB available
-* **Disk Space:** 19 GB total, 5.4 GB used, 13 GB available
+- **Operating System:** Ubuntu 24.04.4 LTS
+- **CPU Information:** 1 vCPU, Intel Xeon E312xx (Sandy Bridge), x86_64 architecture
+- **Memory:** 1.9 GiB total, 431 MiB used, 1.4 GiB available
+- **Disk Space:** 19 GB total, 5.4 GB used, 13 GB available
 
 ### Cloud Migration
 
