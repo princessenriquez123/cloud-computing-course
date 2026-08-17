@@ -24,4 +24,4 @@ If this Linux server were migrated to the cloud, it could be hosted using virtua
 Amazon EC2, Azure Virtual Machines, and Google Compute Engine can host Linux virtual machines in the cloud. These services provide virtual computing resources that can replace a physical Linux server and allow resources to be adjusted depending on the needs of the organization.
 
 ## KillerCoda Screenshot
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
+[![KillerCoda Terminal](screenshots/killercoda-terminal.png)](https://github.com/princessenriquez123/cloud-computing-course/blob/82122eebd77b151a7364b17b628b8aa9b8831d4c/Laboratory-03-Multi-Cloud-Explorer/screenshots/killercoda1.png)
